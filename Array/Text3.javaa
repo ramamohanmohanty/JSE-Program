@@ -1,0 +1,7 @@
+public class Text3 {
+    publlc static void main(String args[]){
+        int arr[] = {23,12,88,45};
+        System.out.println("\nSee the array element. \n");
+        for(int x : arr)
+    }
+}
